@@ -1,6 +1,6 @@
  <style>
     body {
-      background-color: #121212;
+      background-color: black;
       font-family: Arial, sans-serif;
       color: white;
       display: flex;
@@ -58,4 +58,5 @@
     button:hover {
       background-color: #00cc9f;
     }
+
   </style>
